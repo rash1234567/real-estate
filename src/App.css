@@ -7,9 +7,198 @@
     padding: 0;
 }
 
+.hero{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
 .loginDiv{
     background-image: url('./Images/firstBg.png');
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.donec{
+    background-color: rgba(17, 17, 17, 0.5);
+    border-radius: 0 500px 500px 0;
+}
+
+.get>span[class^=w]:nth-of-type(n+0){
+    display:block;
+    position:absolute;
+    -moz-transform-origin:50% 100%;
+    -webkit-transform-origin:50% 100%;
+    -o-transform-origin:50% 100%;
+    -ms-transform-origin:50% 100%;
+    transform-origin:50% 100%;
+    }
+ .w0 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }    
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+} 
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+}
+.w1 {
+    -moz-transform: rotate(-1.14rad);
+    -webkit-transform: rotate(-1.14rad);
+    -o-transform: rotate(-1.14rad);
+    -ms-transform: rotate(-1.14rad);
+    transform: rotate(-1.14rad);
+    width: 21px;
+    height: 24px;
+    left: 42.7px;
+    top: 93.95px;
+    }
+.w1 {
+-moz-transform: rotate(-1.14rad);
+-webkit-transform: rotate(-1.14rad);
+-o-transform: rotate(-1.14rad);
+-ms-transform: rotate(-1.14rad);
+transform: rotate(-1.14rad);
+width: 21px;
+height: 24px;
+left: 42.7px;
+top: 93.95px;
+}           
+.prop{
+    background-image:url(./Images/select.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    font-family: poppins;
+}
+
+.last{
+    background-image: url(./Images/select.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
+/* .selectImg{
+    background-image: url();
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.aboutOne{
+    background-image:url(./Images/about\ .png);
+    background-position: right; 
+    background-repeat: no-repeat;
+}
+
+.homes{
+    background-image: url(./Images/homes.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+.testimonial {
+    background-image: url(./Images/testimonials.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
