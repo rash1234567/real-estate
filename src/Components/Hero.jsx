@@ -58,17 +58,17 @@ function Hero() {
            </ul>
            <div className='flex bg-[#00FFA3] w-[145px] h-[145px] rounded-full mt-16 flex-col items-center justify-between self-center'>
              <div className='mt-2 rounded-full get font-semibold'>
-                <span class='w0'>G</span>
-                <span class='w1'>e</span>
-                <span class='w2'>t</span>
-                <span class='w3'> </span>
-                <span class='w4'>S</span>
-                <span class='w5'>t</span>
-                <span class='w6'>a</span>
-                <span class='w7'>r</span>
-                <span class='w8'>t</span>
-                <span class='w9'>e</span>
-                <span class='w10'>d</span>
+                <span className='w0'>G</span>
+                <span className='w1'>e</span>
+                <span className='w2'>t</span>
+                <span className='w3'> </span>
+                <span className='w4'>S</span>
+                <span className='w5'>t</span>
+                <span className='w6'>a</span>
+                <span className='w7'>r</span>
+                <span className='w8'>t</span>
+                <span className='w9'>e</span>
+                <span className='w10'>d</span>
              </div>
              <div className='bg-white rounded-full'>
                 <img src={playBtn}/>
