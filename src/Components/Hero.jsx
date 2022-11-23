@@ -17,7 +17,7 @@ function Hero() {
                     </div>
                     <h1 className='text-white font-bold text-sm md:text-lg'>Uifry</h1>
                 </div>
-                <ul className='flex text-white items-center mt-[10px] md:mt-[20px] w-[80%] justify-around font-normal text-[12px] md:text-lg'>
+                <ul className='flex text-white items-center mt-[10px] md:mt-[20px] w-[80%] justify-around font-normal text-[10px] md:text-lg'>
                   <li>
                     <a href="">Explore</a>
                   </li>

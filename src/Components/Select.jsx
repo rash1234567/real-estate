@@ -30,8 +30,8 @@ function Select() {
         <div className='last h-[600px] flex-col w-full flex lg:flex-row lg:w-4/5'>
             <div className='selectImg h-[500px] w-full lg:w-1/2 relative md:px-4 lg:px-0'>
                    <img src={selectImg} className='w-full h-full' />
-                    <h1 className='w-96 text-white absolute top-[50%] right-0 pl-4 lg:top-[20%] md:right-[45%] lg:-right-[30%] text-xl md:pl-0 md:text-2xl lg:text-5xl'>Compact Classic Summer House.</h1>
-                    <div className='w-[88px] h-[88px] absolute right-4 lg:-right-3 bottom-12'>
+                    <h1 className='w-96 text-white absolute top-[50%] -right-2 pl-4 lg:top-[20%] md:right-[45%] lg:-right-[30%] text-xl md:pl-0 md:text-2xl lg:text-5xl'>Compact Classic Summer House.</h1>
+                    <div className='w-[88px] h-[88px] absolute right-4 lg:-right-3 bottom-8 md:bottom-12'>
                         <img src={selectEclipse} className='w-full h-full relative'/>
                         <img src={selectArrow} className='absolute top-[30%] w-1/2 h-1/2 right-5' />
                     </div>
