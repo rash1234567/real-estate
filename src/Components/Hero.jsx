@@ -38,7 +38,7 @@ function Hero() {
                 <h1>Take the keys.</h1>
             </div>
             <h1 className='absolute text-white text-xl w-4/6 left-[35%] top-[330px] lg:w-[779px] lg:h-[102px] lg:text-[45px] lg:left-[275px] lg:top-[345px] md:text-2xl'>A Vision For Liveable </h1>
-            <h1 className='absolute text-white lg:w-[874px] lg:left-[10%] top-[360px] lg:top-[398px] lg:text-[45px] text-xl self-center md:text-2xl'>And Affordable Homes.</h1>
+            <h1 className='absolute text-white left-[34%] lg:w-[874px] lg:left-[10%] top-[360px] lg:top-[398px] lg:text-[45px] text-xl self-center md:text-2xl'>And Affordable Homes.</h1>
             <div className='flex my-[70px] justify-between w-full lg:w-4/5'>
                 <button className='bg-[#00FFA3] w-[70px] h-[70px] md:w-[100px] md:h-[100px] text-center text-md md:text-xl font-bold'>Get Started</button>
                 <div className='text-white w-[70px] h-[70px] md:w-[100px] md:h-[100px] text-center'>
@@ -57,23 +57,37 @@ function Hero() {
               <li>Login</li>
            </ul>
            <div className='flex bg-[#00FFA3] w-[145px] h-[145px] rounded-full mt-16 flex-col items-center justify-between self-center'>
-             <div className='mt-2 rounded-full get font-semibold'>
-                <span className='w0'>G</span>
-                <span className='w1'>e</span>
-                <span className='w2'>t</span>
-                <span className='w3'> </span>
-                <span className='w4'>S</span>
-                <span className='w5'>t</span>
-                <span className='w6'>a</span>
-                <span className='w7'>r</span>
-                <span className='w8'>t</span>
-                <span className='w9'>e</span>
-                <span className='w10'>d</span>
+             <div className='mt-2 rounded-full get font-medium'>
+               <div className='get relative'>
+                  <span className='c1'>G</span>
+                  <span className='c2'>e</span>
+                  <span className='c3'>t</span>
+                  <span className='c4'></span>
+                  <span className='c5'>s</span>
+                  <span className='c6'>t</span> 
+                  <span className='c7'>a</span>
+                  <span className='c8'>r</span>
+                  <span className='c9'>t</span>
+                  <span className='c10'>e</span>
+                  <span className='c11'>d</span>
+               </div>
+             {/* <h1>
+              <span class="c1">H</span>
+              <span class="c2">E</span>
+              <span class="c3">L</span>
+              <span class="c4">L</span>
+              <span class="c5">0</span>
+              <span class="c6">W</span>
+              <span class="c7">0</span>
+              <span class="c8">R</span>
+              <span class="c9">L</span>
+              <span class="c10">D</span>
+              </h1> */}
              </div>
              <div className='bg-white rounded-full'>
-                <img src={playBtn}/>
+                <img src={playBtn} className='' />
              </div>
-             <h1 className='text-2xl font-black'>.</h1>
+             <h1 className='text-4xl font-black'>.</h1>
           </div>
           <p className='donec text-white w-full md:w-4/5 lg:w-4/6 p-4'>Donec cras lacus, quis nunc urna. Feugiat neque, non, mi erat ultricies morbi. Habitasse iaculis sed morbi natoque. acus, quis nunc urna. Feugiat neque, non, mi erat</p> 
        </div>
